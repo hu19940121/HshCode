@@ -8,7 +8,15 @@ testgit1 更改
 testgit1 更改
 testgit2 更改
 
+<<<<<<< Updated upstream
 testgit2
 <div>
 	<p> git2 </>
 <div>
+=======
+testgit1
+<div>
+	<p> git1 </>
+<div>
+
+>>>>>>> Stashed changes
