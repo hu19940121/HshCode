@@ -22,6 +22,7 @@ testgit2
 	<p> git2 </>
 <div>
 
+<<<<<<< HEAD
 testgit2
 <div>
 	<p> git2 </>
@@ -30,3 +31,10 @@ testgit2
 
 
 
+=======
+
+testgit1
+<div>
+	<p> git1 </>
+<div>
+>>>>>>> 55c570852c63bdf3d3bc0cd1aabc15c803e450cd
