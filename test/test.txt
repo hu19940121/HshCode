@@ -5,8 +5,6 @@ testgit2 更改
 testgit1 更改
 testgit2 更改
 testgit1 更改
-<<<<<<< HEAD
 testgit1 更改
-=======
 testgit2 更改
->>>>>>> 5bb5b09a6623e41a49b5395440780c82dea248f2
+
