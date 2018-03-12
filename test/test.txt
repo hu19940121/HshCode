@@ -23,11 +23,24 @@ testgit2
 <div>
 
 
+testgit2
+<div>
+	<p> git2 </>
+<div>
+
+
+
+
+
 testgit1
 <div>
 	<p> git1 </>
+<<<<<<< HEAD
 <div>
 
 
 
 testgit1111111111111111111111
+=======
+
+>>>>>>> da6d2965850d8282e1a9a379ad7283df59b2f1dc
