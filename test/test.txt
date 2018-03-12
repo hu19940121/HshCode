@@ -1,1 +1,6 @@
+
 clear2
+
+clear
+
+
