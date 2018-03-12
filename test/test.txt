@@ -11,7 +11,7 @@ testgit2
 <div>
 	<p> git2 </>
 <div>
-=======
+
 testgit1
 <div>
 	<p> git1 </>
